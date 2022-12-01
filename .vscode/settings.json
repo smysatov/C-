@@ -1,0 +1,5 @@
+{
+    "files.autoGuessEncoding": false,
+    "files.defaultLanguage": " ${activeEditorLanguage}",
+    "files.autoSave": "afterDelay"
+}
